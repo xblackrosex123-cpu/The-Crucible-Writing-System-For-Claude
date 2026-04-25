@@ -1,0 +1,489 @@
+{
+  "project": {
+    "title": "SOLAR HYMN",
+    "premise": "In a solar-system city where criminal syndicates control the flight lanes, a brilliant young Black pilot from the lower decks becomes the face of a new drug-running empire after stealing prototype wings that let him outrun any ship alive. His mentor built the tech to escape the system, but he wants more than escape. He wants the sky to know his name. Inspired by the myth of Icarus \u2014 a slow burn to triumph, then a spectacular, inevitable fall.",
+    "created": "2026-04-25T20:53:02.885342",
+    "last_updated": "2026-04-25T22:10:07.392014"
+  },
+  "scope": {
+    "target_length": null,
+    "complexity": null,
+    "chapters": null
+  },
+  "progress": {
+    "current_document": 10,
+    "current_question": 1,
+    "documents_complete": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "total_questions_answered": 84
+  },
+  "answers": {
+    "doc1_crucible_thesis": {
+      "novel_length": {
+        "question": "What is your target novel length?",
+        "answer": "Standard",
+        "description": "100-150K words, ~20-25 chapters"
+      },
+      "pov_structure": {
+        "question": "How do you want to handle perspective?",
+        "answer": "Single POV",
+        "description": "Only Icarus \u2014 immersive, claustrophobic, you burn with him"
+      },
+      "burden_type": {
+        "question": "What is our Icarus actually carrying as his external burden?",
+        "answer": "Mixed \u2014 Name/Legend + the Wings",
+        "description": "The stolen prototype wings ARE the instrument of his legend-building; both are intertwined as his burden"
+      },
+      "fire_type": {
+        "question": "What is Icarus's Fire?",
+        "answer": "The hunger for recognition",
+        "description": "His need to be seen, known, remembered \u2014 it hardens him, isolates him, and drives every reckless choice"
+      },
+      "core_bond": {
+        "question": "Which bond is the unbreakable anchor?",
+        "answer": "The Mentor (Daedalus)",
+        "description": "The man who built the wings \u2014 father figure, architect of his ascent, and the one person whose voice he'll hear at the end"
+      },
+      "dark_mirror": {
+        "question": "What connects protagonist and antagonist?",
+        "answer": "Same hunger, different era",
+        "description": "The antagonist WAS Icarus \u2014 a former legend who flew too high, survived, and became the system that now exploits new talent"
+      },
+      "forging_question": {
+        "question": "What must Icarus BECOME to complete his arc?",
+        "answer": "Someone who lets go of the need to be seen",
+        "description": "The final lesson is flying for himself alone \u2014 not for the crowd, not for the name \u2014 which is also when it ends"
+      },
+      "antagonist_truth": {
+        "question": "What truth does the antagonist genuinely believe?",
+        "answer": "You either become the sun or you become its fuel",
+        "description": "Binary worldview: the powerful consume the bright. He chose to be powerful. He expects Icarus to be fuel."
+      },
+      "surrender": {
+        "question": "At the Apex, what does Icarus willingly surrender?",
+        "answer": "His anger",
+        "description": "He forgives the system, the people who used him, the world that only noticed him burning \u2014 and flies free of all of it"
+      },
+      "theme": {
+        "question": "How does the story answer its core theme question?",
+        "answer": "The question itself is the wound",
+        "description": "The story never resolves it \u2014 it holds the tension. Both YES and NO feel true. The reader must decide."
+      },
+      "blades_purpose": {
+        "question": "What does Icarus leave behind in the Coda?",
+        "answer": "Myth + Spark",
+        "description": "He dies in flight and becomes the myth itself \u2014 but the Coda also shows someone in the lower decks who watched, who will carry the flame forward"
+      }
+    },
+    "doc2_quest_strand": {
+      "burden_origin": {
+        "question": "How does Icarus first get the wings?",
+        "answer": "Mentor access + conglomerate manipulation",
+        "description": "The mentor gave him access to the tech; the conglomerate manipulated the situation to make him desperate enough to steal them \u2014 he thinks it was his choice"
+      },
+      "why_protagonist": {
+        "question": "Why must THIS pilot carry this burden?",
+        "answer": "He's the only one who didn't hesitate",
+        "description": "He's the only one arrogant enough to try. Everyone else saw the risk. He saw the glory."
+      },
+      "antagonist_stake": {
+        "question": "Why does the antagonist oppose Icarus?",
+        "answer": "Icarus disrupts the monopoly AND the villain must own the myth or kill it",
+        "description": "The villain sees Icarus breaking the controlled flight system AND fears the legend outgrowing his control \u2014 he needs to own it or extinguish it"
+      },
+      "quest_escalation": {
+        "question": "How does the quest expand into world-affecting?",
+        "answer": "Becomes movement + wings control + final race referendum",
+        "description": "He becomes an unintentional symbol; the wings' tech threatens to reshape who controls the sky; the final race becomes a world-stage event"
+      },
+      "impossible_requirement": {
+        "question": "What makes the quest seem impossible?",
+        "answer": "Flight lane constraints + unfinished wings",
+        "description": "He cannot fly too high or too low (the system controls all altitudes/routes) \u2014 AND the prototype wings were never finished, so every full burn risks destruction"
+      },
+      "resolution_method": {
+        "question": "How is the burden ultimately resolved?",
+        "answer": "Destroyed at full cost + myth fulfills itself",
+        "description": "He flies the final race at full burn \u2014 the wings destroy themselves and him, but the arc of Icarus completes itself in real-time, witnessed by the solar system"
+      }
+    },
+    "doc3_fire_strand": {
+      "fire_manifestation": {
+        "question": "How does Icarus's Fire first fully manifest?",
+        "answer": "Explosive eruption in the first real run",
+        "description": "First time he flies the wings at full power, something shifts \u2014 he feels the recognition he's always needed, and it's catastrophically good"
+      },
+      "fire_danger": {
+        "question": "What is the danger if the Fire is never mastered?",
+        "answer": "Loses self to legend + physical degradation + becomes conglomerate weapon",
+        "description": "He loses himself to the myth, burns his body silently, and becomes exactly the reckless uncontrollable tool the conglomerate wanted"
+      },
+      "cost_of_use": {
+        "question": "What is the ongoing price of using the Fire at full capacity?",
+        "answer": "Physical toll + reality erosion + tolerance",
+        "description": "He feels himself burning physically; the crowd becomes more real than people; each run demands more to get the same high"
+      },
+      "mastery_path": {
+        "question": "What does mastery of the Fire require?",
+        "answer": "There is no mastery \u2014 only the choice",
+        "description": "He cannot master it. The arc is not mastery but the conscious choice to fly anyway, knowing the full cost."
+      },
+      "hardening_phase": {
+        "question": "What line does Icarus cross in the Scattering?",
+        "answer": "He betrays the mentor to fly",
+        "description": "He takes the wings out against the mentor's explicit prohibition \u2014 the relationship fractures, and Icarus chooses the sky over the man who built it for him"
+      },
+      "mastery_moment": {
+        "question": "What is the closest Icarus gets to integrating his Fire?",
+        "answer": "One perfect quiet flight + mentor forgiveness almost saves him",
+        "description": "He has one quiet flight \u2014 no crowd, no run \u2014 that shows him what peace could be. Then the mentor tries to forgive him. Neither sticks before the final race claims him."
+      }
+    },
+    "doc4_constellation_strand": {
+      "faithful_companion": {
+        "question": "Who is the Faithful?",
+        "answer": "His ground crew chief",
+        "description": "Crew chief/mechanic who keeps the wings flying. Devoted but not blind. Watches him burn from the closest distance."
+      },
+      "sacrifice": {
+        "question": "Who dies heroically in Act 4?",
+        "answer": "An innocent he inspired",
+        "description": "Someone from the lower decks he inspired \u2014 proof that his legend has collateral damage, not just glory; shows him what his fire costs others"
+      },
+      "betrayal_source": {
+        "question": "Which relationship strains closest to breaking?",
+        "answer": "Faithful + conglomerate",
+        "description": "His ride-or-die (crew chief) finally says enough when taken for granted; the conglomerate simultaneously turns on him, making him a controlled instrument"
+      },
+      "expansion": {
+        "question": "What allies join in Act 3?",
+        "answer": "Lower-decks pilots + the crowd",
+        "description": "Other young pilots inspired by his name create an uncontrollable movement; the broader public of the solar system becomes a force he's caught inside"
+      },
+      "bond_that_saves": {
+        "question": "What anchors Icarus in his darkest moment?",
+        "answer": "The mentor bond",
+        "description": "In his lowest moment, the mentor's voice is the only thing that reaches him \u2014 the man who built the wings is the last anchor"
+      },
+      "constellation_fate": {
+        "question": "After the Apex, what happens to the people who orbited him?",
+        "answer": "The flame passes to someone new",
+        "description": "A lower-decks pilot inspired by Icarus steps into the vacancy \u2014 the Coda shows the fire passing forward, not extinguished"
+      }
+    },
+    "doc5_forge_points": {
+      "fp0_ignition": {
+        "quest_crisis": {
+          "question": "What external event destroys his ordinary world?",
+          "answer": "The first public race \u2014 the crowd learns his name",
+          "description": "He races publicly for the first time. The crowd knows his name after. He cannot go back to being unknown."
+        },
+        "fire_crisis": {
+          "question": "When does the internal power first reveal its danger?",
+          "answer": "He survives something impossible \u2014 and grins",
+          "description": "The wings malfunction mid-run and he forces them through anyway. He shouldn't have survived. He smiles."
+        },
+        "constellation_crisis": {
+          "question": "What relationship is immediately threatened?",
+          "answer": "Someone close is taken as collateral",
+          "description": "A former friend from the lower decks is used as leverage by the conglomerate to guarantee his compliance."
+        },
+        "sacrifice": {
+          "question": "Which strand is sacrificed?",
+          "answer": "Quest: He loses his autonomy",
+          "description": "He gives up his freedom of choice \u2014 the conglomerate owns him now. The mission is no longer his."
+        },
+        "fp1_quest": {
+          "question": "First Crucible Quest Crisis",
+          "answer": "He discovers what the empire actually is",
+          "description": "He discovers the conglomerate has been using his runs to fund something repugnant. Already in too deep."
+        }
+      },
+      "fp1_first": {
+        "quest_crisis": {
+          "question": "First Crucible Quest Crisis: What is the first impossible mission choice?",
+          "answer": "He discovers what the empire actually is",
+          "description": "He discovers the conglomerate has been using his runs to fund something repugnant. Already in too deep."
+        },
+        "fire_crisis": {
+          "question": "First Crucible Fire Crisis: What Fire complication emerges?",
+          "answer": "He uses the wings for something he shouldn't",
+          "description": "He uses the wings to handle a crisis the way violence handles things. The crowd loves it. He notices how much he loved it."
+        },
+        "constellation_crisis": {
+          "question": "First Crucible Constellation Crisis: What relationship breaks?",
+          "answer": "Mentor confrontation \u2014 first real crack",
+          "description": "The mentor confronts him about the wing usage. First real fight. Something is said that can't be unsaid."
+        },
+        "sacrifice": {
+          "question": "First Crucible Sacrifice: Which strand is sacrificed?",
+          "answer": "Fire: Exceeds the safe limit",
+          "description": "He uses the wings beyond safe limits to handle the crisis. The physical toll accelerates."
+        }
+      },
+      "fp2_second": {
+        "quest_crisis": {
+          "question": "FP2 Quest Crisis",
+          "answer": "His runs become geopolitical",
+          "description": "The wings' existence becomes politically explosive. His runs are now evidence in a power war he didn't know he was in."
+        },
+        "fire_crisis": {
+          "question": "FP2 Fire Crisis",
+          "answer": "First truly selfish full burn",
+          "description": "He uses the wings at full power for something personal \u2014 pride, revenge \u2014 not the mission. Just because he can."
+        },
+        "constellation_crisis": {
+          "question": "FP2 Constellation Crisis",
+          "answer": "Crew chief almost walks",
+          "description": "The crew chief nearly leaves. He has to ask them to stay \u2014 first time he's admitted he needs someone."
+        },
+        "sacrifice": {
+          "question": "FP2 Sacrifice",
+          "answer": "Quest: Mission loses ground",
+          "description": "He loses ground on the mission or the run to stop the crew chief from leaving. Human need costs mission efficiency."
+        }
+      },
+      "fp3_third": {
+        "quest_crisis": {
+          "question": "FP3 Quest Crisis",
+          "answer": "Empire cuts him + villain's final move + new tech obsolescence",
+          "description": "The conglomerate burns him; the villain moves to neutralize him permanently; the new tech announcement makes him a relic. The final race is the only answer left."
+        },
+        "fire_crisis": {
+          "question": "FP3 Fire Crisis",
+          "answer": "The fire shows him what he's losing",
+          "description": "He experiences the pure joy of flight one last time in a crisis moment \u2014 it's beautiful. That makes it worse."
+        },
+        "constellation_crisis": {
+          "question": "FP3 Constellation Crisis",
+          "answer": "Crew chief learns truth + mentor's final plea + protecting the next one",
+          "description": "The crew chief learns this is a death run; the mentor makes one last plea; Icarus spends his last quiet act ensuring the next pilot is safe."
+        },
+        "sacrifice": {
+          "question": "FP3 Sacrifice",
+          "answer": "Constellation: Someone pays the ultimate price",
+          "description": "The innocent he inspired dies as collateral. The sacrifice models the surrender he must make in the final race."
+        }
+      },
+      "apex": {
+        "quest_crisis": {
+          "question": "Apex Quest Crisis",
+          "answer": "Live before solar system + wins in villain's territory then falls",
+          "description": "He races live before the entire solar system watching; wins in the villain's territory \u2014 then falls. The act of flying is the mission completed."
+        },
+        "fire_crisis": {
+          "question": "Apex Fire Crisis",
+          "answer": "Full burn + lets go of need to be seen + flies toward the sun",
+          "description": "The wings hit absolute limit then fail; at the peak he finally flies for no one; he sees the sun and the wings call toward it. He answers."
+        },
+        "constellation_crisis": {
+          "question": "Apex Constellation Crisis",
+          "answer": "His constellation watches the final run",
+          "description": "The mentor, crew chief, and witnesses watch from the ground. They know. The race IS the goodbye."
+        },
+        "sacrifice": {
+          "question": "Apex Willed Surrender",
+          "answer": "He surrenders his anger \u2014 the smile is the proof",
+          "description": "He forgives everyone. He flies free of his anger. The sorrowful smile is the proof the surrender is real and complete."
+        }
+      }
+    },
+    "doc6_dark_mirror": {
+      "origin_parallel": {
+        "question": "What origins does the antagonist share with Icarus?",
+        "answer": "Same world, same starting nothing",
+        "description": "He came from the same lower decks. Same hunger, same nothing-to-lose, same sky that belonged to someone else."
+      },
+      "divergence": {
+        "question": "What moment caused the antagonist's path to diverge?",
+        "answer": "He chose power over grief",
+        "description": "Someone he loved died because of his flying. He chose power over grief. He became the system to make sure that loss had a purpose."
+      },
+      "antagonist_want": {
+        "question": "What does the antagonist believe he's fighting FOR?",
+        "answer": "Wants to be the last legend + wants the wings + wants Icarus to make his choice",
+        "description": "He can't let Icarus's legend surpass his; he wants the wings destroyed or controlled; and deep down he wants Icarus to choose to live \u2014 to validate his own compromise."
+      },
+      "compelling_offer": {
+        "question": "What does the antagonist offer Icarus?",
+        "answer": "Mentorship + protection for those he loves",
+        "description": "He offers to teach Icarus how to survive the fire \u2014 everything the mentor couldn't. AND he offers to protect the crew chief and mentor if Icarus bends."
+      },
+      "why_tempting": {
+        "question": "Why would accepting be genuinely tempting?",
+        "answer": "Maybe he doesn't have to burn + the glory, fame, and money are real",
+        "description": "If the villain survived and built all this, maybe there's another version. And the offer includes the continuation of everything Icarus loves \u2014 the status, the runs, the platform."
+      },
+      "hidden_cost": {
+        "question": "What would accepting cost Icarus?",
+        "answer": "Betray mentor + live diminished + lose the sky",
+        "description": "He'd betray the mentor \u2014 his last relationship with integrity. He'd live as a compromised version forever. And he'd only fly as permitted \u2014 the gift becomes a leash."
+      },
+      "defeat_method": {
+        "question": "How is the antagonist ultimately defeated?",
+        "answer": "Icarus's choice makes control irrelevant + answers argument through action",
+        "description": "Icarus refuses and flies anyway. The villain can't stop the myth in motion. Icarus proves through the final race that HOW you burn matters more than whether you survive."
+      },
+      "antagonist_end": {
+        "question": "What happens to the antagonist?",
+        "answer": "One decent act \u2014 not redemption, but a step aside + he watches and understands what he gave up",
+        "description": "He watches from the ground. He sees the choice he couldn't make. In a last act, he clears the flight lane or lets someone go. Not redemption \u2014 but a step aside."
+      }
+    },
+    "doc7_constellation_bible": {
+      "protagonist": {},
+      "characters": [],
+      "protagonist_unlit_state": {
+        "question": "In the unlit state before the wings, who is Icarus?",
+        "answer": "Restless + Talented but ceilinged",
+        "description": "Already the best pilot in the lower decks, already burning with restlessness. The lower decks can't hold him. The wings give him the door."
+      },
+      "protagonist_wound": {
+        "question": "What is Icarus's wound?",
+        "answer": "Shame for wanting too much",
+        "description": "He was made to feel small for wanting big things \u2014 by people who loved him but didn't understand. The hunger has shame in it."
+      },
+      "protagonist_lie": {
+        "question": "What is the lie Icarus believes?",
+        "answer": "If they see me I'll be whole + a small life is a wasted life",
+        "description": "He believes recognition will close the wound. AND that an ordinary life is the only real death. Both drive him toward the sky."
+      },
+      "mentor_profile": {
+        "question": "Who built the wings and why?",
+        "answer": "An escapist who built the door Icarus turned into a stage",
+        "description": "The mentor built the wings to ESCAPE \u2014 not for glory, for freedom. He wanted out of the system. Icarus wants the opposite of what the wings were for."
+      },
+      "crew_chief_profile": {
+        "question": "What is the crew chief's relationship to Icarus?",
+        "answer": "Devotion without illusion",
+        "description": "They love him but not the legend. They see the man beneath. That clarity is their gift to him and the reason he takes them for granted."
+      },
+      "sacrifice_profile": {
+        "question": "Who is the sacrifice and what does their death prove?",
+        "answer": "An activist who used his name as a flag",
+        "description": "A lower-decks organizer who used Icarus's name as a political symbol. When the conglomerate retaliated, they paid the price. Proves the legend has collateral damage."
+      },
+      "flame_bearer": {
+        "question": "Who receives the fire in the Coda?",
+        "answer": "An unnamed hand reaching for the wings",
+        "description": "The Coda doesn't name them. Just shows the wings in a hangar. Someone's hand reaching. The question is left open."
+      }
+    },
+    "doc8_mercy_ledger": {
+      "mercy_1": {
+        "recipient": {
+          "question": "Who receives Mercy 1?",
+          "answer": "A rival pilot",
+          "description": "Early in the story, Icarus has a rival pilot dead to rights \u2014 he could take them out permanently. He lets them walk."
+        },
+        "immediate_cost": {
+          "question": "What does Mercy 1 cost immediately?",
+          "answer": "Strategic liability",
+          "description": "The spared rival is now a loose end. The conglomerate is suspicious. He has to explain the gap."
+        },
+        "later_payoff": {
+          "question": "How does Mercy 1 pay off later?",
+          "answer": "The rival defects from the villain",
+          "description": "The spared rival defects from the villain's operation because they remember the mercy. Their defection destabilizes the villain's control at a critical moment."
+        }
+      },
+      "mercy_2": {
+        "recipient": {
+          "question": "Who receives Mercy 2?",
+          "answer": "A civilian victim of collateral damage",
+          "description": "A civilian caught in collateral from one of his runs. He covers their damages out of his own pocket. Quietly. No announcement."
+        },
+        "immediate_cost": {
+          "question": "What does Mercy 2 cost?",
+          "answer": "The villain learns he has a conscience",
+          "description": "Word gets to the villain. The villain uses it to profile Icarus as sentimental \u2014 a weakness to exploit in the endgame."
+        },
+        "later_payoff": {
+          "question": "How does Mercy 2 pay off?",
+          "answer": "Reframes public image at a key moment",
+          "description": "The quiet mercy becomes public at a critical moment and reframes the crowd's understanding of who Icarus really is \u2014 not just the legend but the man."
+        }
+      },
+      "mercy_3": {
+        "recipient": {
+          "question": "Who receives Mercy 3?",
+          "answer": "The activist who carried his name",
+          "description": "The lower-decks activist who used his name as a flag is in danger. He risks exposure to protect them even though they made his life harder."
+        },
+        "immediate_cost": {
+          "question": "What does Mercy 3 cost?",
+          "answer": "Companion endangered \u2014 exposes the crew chief",
+          "description": "Protecting the activist requires revealing his location or operation. The crew chief is endangered as a consequence."
+        },
+        "later_payoff": {
+          "question": "How does Mercy 3 pay off?",
+          "answer": "Enemy defection at crucial time",
+          "description": "The activist, alive because of his protection, uses their network to create an opening in the villain's control at the critical moment."
+        }
+      },
+      "mercy_4": {
+        "recipient": {
+          "question": "Who receives Mercy 4?",
+          "answer": "Multiple \u2014 rival in flight + crew chief + himself",
+          "description": "He veers mid-race to avoid killing a rival; uses his last leverage to protect the crew chief; and chooses not to be saved \u2014 the mercy is letting go."
+        },
+        "immediate_cost": {
+          "question": "What does Mercy 4 cost?",
+          "answer": "Appears to guarantee failure",
+          "description": "Every choice in the final race looks like it will cost him the win. The mercy acts appear to be the cause of his fall."
+        },
+        "later_payoff": {
+          "question": "How does Mercy 4 pay off?",
+          "answer": "Enables the unexpected agents (Beat 31)",
+          "description": "The earlier mercies return \u2014 the spared rival, the defected enforcer \u2014 and in the final moments create the impossible window that lets him complete the run."
+        }
+      }
+    },
+    "doc9_world_forge": {
+      "worlds_wound": {
+        "question": "What is the cosmic wound this world is carrying?",
+        "answer": "A collapsing old order being replaced by crime",
+        "description": "The criminal conglomerates are filling the vacuum of a collapsing legitimate order. Everyone knows. The wound is what was allowed to die."
+      },
+      "power_source": {
+        "question": "What is the nature of power and resources?",
+        "answer": "Fuel monopoly \u2014 criminal empires own the supply chain",
+        "description": "The criminal empires control the fuel that all drives require. The sky is free in theory. In practice it belongs to whoever owns the gas."
+      },
+      "power_limitations": {
+        "question": "What limitations create tension?",
+        "answer": "The hostile physics of the solar system itself",
+        "description": "Radiation zones, gravity wells, vacuum, solar flares \u2014 the solar system is genuinely hostile. All human activity, including crime, happens inside these physical constraints."
+      },
+      "history": {
+        "question": "How does history affect the present?",
+        "answer": "How the sky got stolen + a lost free era",
+        "description": "The conglomerate takeover is documented history \u2014 people know how it happened. Before that was an era of open sky. Living memory of free flight makes the current order feel stolen."
+      },
+      "key_locations": {
+        "question": "Which key locations anchor the story?",
+        "answer": "Lower Decks + Workshop + Upper City + Open Space",
+        "description": "Lower Decks (ordinary world \u2014 dense, alive, beautiful and brutal); the Workshop (mentor's sanctuary of honest work); the Upper City (corrupted institution \u2014 the sky that belongs to someone else); and Space itself (endless, jazzy, the truest freedom \u2014 the Bebop element)."
+      },
+      "world_protagonist_mirror": {
+        "question": "How does the world reflect Icarus's state?",
+        "answer": "All four \u2014 altitude danger + lower decks respond + system tightens + wings and sun in dialogue",
+        "description": "The world responds on every level: altitude increases danger physically; his runs affect lower decks conditions; the system tightens around his fame; the wings and solar energy are in active dialogue."
+      },
+      "cultures": {
+        "question": "How many distinct cultures shape the story?",
+        "answer": "Multiple cultures across several worlds",
+        "description": "Multiple inhabited bodies in the solar system, each with their own version of the class divide. The story moves between several \u2014 the Bebop element of a living, jazzy solar system."
+      }
+    }
+  }
+}
