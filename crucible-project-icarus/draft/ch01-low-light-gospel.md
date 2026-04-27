@@ -108,7 +108,7 @@ The ship settled. The engines began their cooling sequence. The dock came back t
 
 He sat in the cockpit and looked at the platform indicator on his display. The pedestrian platforms south of corridor nine.
 
-Already cleared.
+Already gone.
 
 He'd been on the ground for forty seconds.
 
@@ -154,7 +154,7 @@ The thing was: it should have been enough. Two years in the lower corridors, the
 
 The ceiling was not enough.
 
-He was aware of what this said about him. He had an entire file on what it said about him, had been adding to it for two years, and the file was not flattering, and he kept doing the same things anyway. He thought about a meal somewhere with chairs — a place on the Shelf where the lighting was the primary kind. He'd been meaning to take Juno somewhere like that for six months, had been saying *next week* at regular intervals for six months, which was the same thing as not meaning it, which was the same thing as not going. The thought was the small version of the bigger thing. He used it when the bigger thing got too heavy to carry in his head all at once.
+He was aware of what this said about him. He had an entire file on what it said about him, had been adding to it for two years, and the file was not flattering, and he kept doing the same things anyway. Forty seconds. The crowd was already gone before he'd finished landing — not every time, but enough times that he'd stopped being surprised by it, and stopping being surprised was its own kind of problem.
 
 "You're not going to say anything about corridor nine," he said.
 
@@ -204,7 +204,7 @@ Juno's neutral was not the same as regular neutral. He'd spent two years learnin
 
 He looked back at Kweku. The dock went about its business. The cargo was sealed and moving. The vendor's smell came from three spots past where it had a right to be. His engines were done cooling.
 
-The stone was still in the glass. That was the thing. The run was done and it was good — one of the cleanest he'd run — and the payout was coming and none of it had moved the stone. It sat at the bottom the way it always sat, and he'd been calling it *not yet* for two years, and *not yet* was doing a significant amount of work that he hadn't hired it to do. Eventually was running out of time to mean later. He was twenty years old in the lower decks. Eventually had a horizon.
+The run was one of the cleanest he'd run. Forty seconds on the platform and already gone. He'd been calling what came after *not yet* for two years, and *not yet* was doing a significant amount of work that he hadn't hired it to do. Eventually was running out of time to mean later. He was twenty years old in the lower decks. Eventually had a horizon.
 
 "Alright," he said.
 
